@@ -1,0 +1,95 @@
+#top{
+    background-color:rgb(54, 142, 243);
+    color:white;
+    text-align:center;
+    margin-top:-10px;
+}
+h1{
+    color:rgb(54, 142, 243);
+    width:50%;
+}
+nav{
+    display:flex;
+    width:100%;
+}
+.navigation{
+    display:flex;
+    justify-content: flex-end;
+    width:40%;
+    justify-content:space-between;
+    list-style-type:none;
+}
+#last{
+    background-color:rgb(54, 142, 243);
+    color:white;
+    border:rgb(54, 142, 243);
+    border-radius:10px;
+    padding:15px;
+}
+main{
+    background-color:rgb(121, 206, 242);
+    display:flex;
+    justify-content:flex-end;
+    justify-content:space-between;
+    padding: 35px;
+}
+#hero{
+    font-size:65px;
+    font-weight: bold;
+    font-family:sans-serif;
+}
+#hero2{
+    font-size:30px;
+}
+#hero3{
+    background-color:rgb(54, 142,243);
+    padding:15px;
+    color:white;
+    border:2px solid rgb(54, 142,243);
+    border-radius:10px;
+}
+#hero4{
+    background-color:white;
+    padding:15px;
+    color:rgb(54, 142, 243);
+    border:2px solid white;
+    border-radius:10px;
+}
+#dos{
+    display:flex;
+    justify-content: space-between;
+}
+.this{
+    border:2px solid #000000;
+    border-radius:15px;
+    padding:1%;
+    margin-bottom: 2%;
+}
+h5{
+    font-size:20px;
+}
+#tres{
+    background-color:rgb(121, 206, 242);
+    text-align: center;
+    padding:25px;
+}
+h3{
+    font-size: 40px;
+}
+#tres ul{
+    list-style-type: none;
+}
+.list{
+    border:solid 2px white;
+    border-radius:15px;
+    background-color:white;
+    padding:1%;
+    text-align:center;
+    margin-bottom:1%;
+}
+table{
+    width:100%  
+}
+td{
+    text-align: center;
+}
